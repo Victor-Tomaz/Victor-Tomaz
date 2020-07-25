@@ -1,5 +1,6 @@
 <div align="center">
   <h3>Hey there! 👋</h3>
+  [![](https://img.shields.io/badge/-Victor%20Tomaz-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/victor-tomaz/)
 </div>
 
 ****
