@@ -1,7 +1,6 @@
 <div align="center">
   <h3>What's up! 👋</h3>
-  <p>Welcome to my profile, most of my work is private. But I have some public projects here.</p>
-  <p>I do some <b>🎵 Music</b> too, check it out <a href="https://soundcloud.com/nkeff">here</a>
+  <p>Welcome to my profile!</p>
 </div>
 
 ****
